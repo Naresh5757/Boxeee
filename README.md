@@ -1,2 +1,2 @@
-boxee
+box
 boxeee
